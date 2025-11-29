@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Seif Ben Ali</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&width=500&lines=Software+%26+DevOps+Engineer;Blockchain+Developer;IoT+Specialist;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&width=500&lines=Software+%26+DevOps+Engineer;Backend+Developer;Big+Data+Engineer;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,16 +27,16 @@ const seif = {
   education: "Computer Engineering @ ENSI Tunisia 🎓",
   specialization: "Embedded Systems & IoT",
   location: "Tunisia 🇹🇳",
-  currentFocus: "Blockchain, Distributed Systems & Cloud",
+  currentFocus: "Backend, Big Data & Cloud DevOps",
   funFact: "Football enthusiast ⚽"
 };
 ```
 
 - 🎓 **ENSI Graduate** - Computer Engineering, Embedded Systems & IoT
-- 🔗 **Blockchain** - Building decentralized solutions with Hyperledger Fabric
-- ☁️ **Cloud** - Microsoft Azure Certified (AZ-900)
-- 🚀 **DevOps** - CI/CD, Docker, Kubernetes, Infrastructure as Code
-- 💼 **Open to opportunities** in Software Engineering & DevOps
+- 💻 **Backend** - Building scalable APIs with .NET, Node.js & Go
+- 📊 **Big Data** - Real-time pipelines with Kafka, Spark & Airflow
+- ☁️ **Cloud & DevOps** - Azure (AZ-900), Docker, Kubernetes, CI/CD
+- 💼 **Open to opportunities** in Software Engineering & Data Engineering
 
 ---
 
@@ -183,11 +183,6 @@ const seif = {
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifG-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifG-13&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifG-13&theme=tokyonight&hide_border=true" />
